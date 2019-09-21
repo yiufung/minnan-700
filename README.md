@@ -1,5 +1,7 @@
 # 臺灣閩南語推薦用字700字表
 
+[AnkiWeb - 臺灣閩南語推薦用字700字表](https://ankiweb.net/shared/info/1891161765)
+
 - 從[臺灣閩南語推薦用字700字表](https://ws.moe.edu.tw/001/Upload/userfiles/file/iongji/700iongji_1031222.pdf)
   提取資料生成csv（by Tabula）
 - 從[臺灣教育部閩南語推薦700字音檔](http://prj.digimagic.com.tw/ntcmin700/index.htm)提取錄音並逐字逐例切割音頻
