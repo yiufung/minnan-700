@@ -1,5 +1,7 @@
 # 臺灣閩南語推薦用字700字表
 
+2021-08-29 更新：修正了數張卡片音頻錯位的問題，**請使用本項目內最新的 Anki 卡組。** 詳情見[PR#2](https://github.com/yiufung/minnan-700/pull/2) (Thanks to @Ka-lip)
+
 [AnkiWeb - 臺灣閩南語推薦用字700字表](https://ankiweb.net/shared/info/1891161765)
 
 - 從[臺灣閩南語推薦用字700字表](https://ws.moe.edu.tw/001/Upload/userfiles/file/iongji/700iongji_1031222.pdf)
