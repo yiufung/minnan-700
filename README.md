@@ -1,7 +1,5 @@
 # 臺灣閩南語推薦用字700字表
 
-2021-08-29 更新：修正了數張卡片音頻錯位的問題，**請使用本項目內最新的 Anki 卡組。** 詳情見[PR#2](https://github.com/yiufung/minnan-700/pull/2) (Thanks to @Ka-lip)
-
 [AnkiWeb - 臺灣閩南語推薦用字700字表](https://ankiweb.net/shared/info/1891161765)
 
 - 從[臺灣閩南語推薦用字700字表](https://ws.moe.edu.tw/001/Upload/userfiles/file/iongji/700iongji_1031222.pdf)
@@ -38,6 +36,11 @@ fields一覽：
 - `臺灣閩南語推薦用字700字表.apkg`: Anki 卡組文檔，可直接下載導入 Anki
 - `labels/all_labels.txt`: Audacity 使用的 label 文檔，由 [Silence Finder](https://manual.audacityteam.org/man/silence_finder_setting_parameters.html)生成後微調
 - `labels/computed_labels.txt`: 使用`all_labels.txt`及`700iongji.csv`生成正確的 label，用於輸出最終 mp3 檔
+
+## 更新记录
+
+- 2021-08-29：修正了數張卡片音頻錯位的問題[PR#2](https://github.com/yiufung/minnan-700/pull/2) (Thanks to @Ka-lip)
+- 2022-01-30：更新了 AnkiWeb 上的版本
 
 ---
 
